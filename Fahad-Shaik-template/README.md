@@ -1,5 +1,3 @@
-Designed by [Blaz Robar](http://www.blazrobar.com/)
-
 ### Bootstrap
 
 [Bootstrap](http://getbootstrap.com/) by Twitter. Licensed under [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
@@ -11,10 +9,6 @@ Designed by [Blaz Robar](http://www.blazrobar.com/)
 ### FlexSlider
 
 [FlexSlider](http://www.woothemes.com/flexslider/) by WooThemes. Licensed under [GNU GENERAL PUBLIC LICENSE](https://github.com/woothemes/FlexSlider/blob/master/LICENSE.md)
-
-### Waypoints
-
-[Waypoints](https://github.com/imakewebthings/waypoints) by Caleb Troughton. Licensed under [MIT](https://github.com/imakewebthings/waypoints/blog/master/licenses.txt)
 
 ### Animate.css
 
